@@ -1,3 +1,7 @@
-django
-psycopg2
+Django==4.0
 Pillow
+numpy
+pandas
+tensorflow-hub
+tensorflow==2.8.0
+protobuf==3.20
